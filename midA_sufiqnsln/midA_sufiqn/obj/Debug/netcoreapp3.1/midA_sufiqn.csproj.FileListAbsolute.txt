@@ -1,0 +1,13 @@
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\bin\Debug\netcoreapp3.1\midA_sufiqn.exe
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\bin\Debug\netcoreapp3.1\midA_sufiqn.deps.json
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\bin\Debug\netcoreapp3.1\midA_sufiqn.runtimeconfig.json
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\bin\Debug\netcoreapp3.1\midA_sufiqn.runtimeconfig.dev.json
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\bin\Debug\netcoreapp3.1\midA_sufiqn.dll
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\bin\Debug\netcoreapp3.1\midA_sufiqn.pdb
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\obj\Debug\netcoreapp3.1\midA_sufiqn.csprojAssemblyReference.cache
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\obj\Debug\netcoreapp3.1\midA_sufiqn.AssemblyInfoInputs.cache
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\obj\Debug\netcoreapp3.1\midA_sufiqn.AssemblyInfo.cs
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\obj\Debug\netcoreapp3.1\midA_sufiqn.csproj.CoreCompileInputs.cache
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\obj\Debug\netcoreapp3.1\midA_sufiqn.dll
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\obj\Debug\netcoreapp3.1\midA_sufiqn.pdb
+G:\C#\Mid assignment\Give Away\midA_sufiqnsln\midA_sufiqn\obj\Debug\netcoreapp3.1\midA_sufiqn.genruntimeconfig.cache
